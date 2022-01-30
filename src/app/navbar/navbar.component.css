@@ -1,0 +1,20 @@
+#logoImage{
+    height: 25px;
+}
+.nav{
+    padding: 15px;
+    display: flex;
+    height: 12%;
+    /* background-color: aquamarine; */
+    justify-content: space-between;
+}
+mat-icon{
+    color: black;
+}
+#tinderLogo{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: red;
+    font-size: 27px;
+}
